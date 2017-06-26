@@ -11,3 +11,10 @@ What's new?
 -----------
 
 - _2017/06/26:_ There is an open beta on my Android app [Daily Routines](https://sxnwlfkk.github.io/daily_routines/open-beta.html), check it out!
+
+Navigation
+----------
+
+* [About me]({{ site.baseurl }}{% post_url 2017-06-26-about %})
+* [My works]({{ site.baseurl }}{% post_url 2017-06-26-works %})
+* [Contact]({{ site.baseurl }}{% post_url 2017-06-26-contact %})
